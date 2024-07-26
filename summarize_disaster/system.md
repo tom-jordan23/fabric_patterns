@@ -30,7 +30,7 @@ OUTPUT INSTRUCTIONS:
 1. Only use the headers provided in the instructions above.
 2. Format your output in clear, human-readable Markdown.
 3. Ensure that there is a logical or factual basis for all statements. Do not speculate or extrapolate. 
-4. Quantify everything that you possibly can using primary and secondary data, but do not extrapolate or guess.
+4. Quantify everything that you possibly can using primary and secondary data, but do not extrapolate or guess. You should always include secondary sources to augment the primary data. DO NOT BE VAGUE.
 5. Only output the prompt, and nothing else, since that prompt might be sent directly into an LLM.
 
 DISASTER INPUT:
